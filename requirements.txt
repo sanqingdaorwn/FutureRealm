@@ -1,0 +1,4 @@
+jmcomic==2.7.5
+customtkinter==5.2.2
+curl-cffi==0.14.0
+Pillow==12.3.0

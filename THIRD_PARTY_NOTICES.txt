@@ -1,0 +1,57 @@
+未来漫境 Android includes the following open-source components:
+
+1. JMComic-Api-Java and jmcomic-android-support by JUKOMU
+   License: MIT
+   https://github.com/JUKOMU/JMComic-Api-Java
+   Full license text: LICENSE-JMComic-Api-Java-MIT.txt
+
+2. Transitive libraries in jmcomic-api-java include OkHttp, Gson, Apache Commons Lang,
+   and Kotlin runtime. These are distributed under Apache License 2.0.
+   https://github.com/square/okhttp
+   https://github.com/google/gson
+   https://github.com/apache/commons-lang
+   https://github.com/JetBrains/kotlin
+   Full license text: LICENSE-APACHE-2.0.txt
+
+3. Jsoup and SLF4J are distributed under MIT licenses.
+   https://github.com/jhy/jsoup
+   https://github.com/qos-ch/slf4j
+   Full license texts: LICENSE-jsoup-MIT.txt and LICENSE-SLF4J-MIT.txt
+
+未来漫境 is an independent third-party application. It is not affiliated with,
+sponsored by, or endorsed by JMComic or the maintainers listed above.
+4. Mirage_Decode / 光棱坦克工厂 by Uyanide
+   Bundled and 未来漫境-skinned offline image page adapted from prism-old.uyanide.com (version 1.5.3). The custom app header, styling, and workflow guide are original integrations; the image processing implementation remains from this project.
+   Source repository: https://github.com/TankFactory/Mirage_Decode
+   License: MIT. Full text: LICENSE-Mirage-Decode-MIT.txt
+
+5. Gilbert space-filling curve
+   The rectangular Gilbert traversal used by the local image-obfuscation feature is adapted from gilbert2d.py by Jakub Cervený.
+   Source: https://github.com/jakubcerveny/gilbert
+   License: BSD 2-Clause License.
+
+   Copyright (c) 2017, Jakub Cervený
+   All rights reserved.
+
+   Redistribution and use in source and binary forms, with or without
+   modification, are permitted provided that the following conditions are met:
+
+   1. Redistributions of source code must retain the above copyright notice,
+      this list of conditions and the following disclaimer.
+
+   2. Redistributions in binary form must reproduce the above copyright
+      notice, this list of conditions and the following disclaimer in the
+      documentation and/or other materials provided with the distribution.
+
+   THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS "AS IS"
+   AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+   IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+   ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
+   LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+   CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+   SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+   INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+   CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+   ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+   POSSIBILITY OF SUCH DAMAGE.
+
